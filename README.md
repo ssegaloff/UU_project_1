@@ -37,6 +37,8 @@ Dropped rows missing oblast.
 Used _internal_filter_date as proxy for missing event dates.
 Modeled at oblast level due to rayon sparsity.
 
+
+----------------------------------------------------------------------------
 ## Method Chosen
 Non-parametric approach:
 
@@ -44,7 +46,9 @@ First-order Markov Chain to model sequential infrastructure damage patterns.
 States = infrastructure types or oblasts.
 Transition probabilities computed from temporal ordering of events.
 
-# Model Chosen
+
+----------------------------------------------------------------------------
+## Model Chosen
 
 Markov Transition Mode
 
@@ -53,6 +57,8 @@ Visualization:
 Heatmaps for top transitions.
 Comparison of observed vs steady-state distributions.
 
+
+---------------------------------------------------------------------------
 ## Results
 
 ### Infrastructure-level findings:
@@ -72,6 +78,8 @@ Most likely next regions after Donetska: Dnipropetrovska (8%), Kharkivska (7.5%)
 Infrastructure: Industrial (20.8%), Education (20.7%), Electricity (12.4%).
 Regions: Donetska (25%), Dnipropetrovska (16.7%), Kharkivska (14%).
 
+
+-------------------------------------------------------------------------------
 ## Limitations
 
 ### Model assumptions:

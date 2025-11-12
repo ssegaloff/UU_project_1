@@ -7,6 +7,10 @@ e.g.
 
 - if a region is hit, which region has the highest probability of being hit next
 
+## Accessing the Data:
+
+To access this data, one must register with ACLED for an account with the appropriate permissions and then should visit https://acleddata.com/curated/data-attacks-ukrainian-infrastructure. (We could not acquire those permissions, but Professor Johnson could, so we acquired the data through him.)
+
 ## EDA
 
 ### Dataset Overview:

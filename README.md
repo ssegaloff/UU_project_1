@@ -64,6 +64,13 @@ Heatmaps of top transitions.
 Comparison of observed versus steady-state distributions.
 
 ---------------------------------------------------------------------------
+## Simulations
+
+Simulations run to create new sequences for both phenomena. Generated sequences of length 10001.
+
+Compared simulated distributions with actual distributions.
+
+---------------------------------------------------------------------------
 
 ## Results
 

@@ -1,4 +1,7 @@
 # UU_project_1 Ukraine Conflict Monitor Dataset
+
+Group Members: Chloe Barnes, Aysha Hussen, Tianyin Mao, and Sabine Segaloff
+
 The goal of this project is to non-parametrically model a phenomenon of interest (in our case, civilian infrastructure damage in Ukraine starting on February 24, 2022) and to generate sequences of values.
 
 e.g. 
